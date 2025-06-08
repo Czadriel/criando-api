@@ -64,3 +64,10 @@
 #### Interface gráfica para testar a API em:
 #### 👉 http://localhost:8080/swagger-ui.html
 #### (necessário adicionar a dependência do Springdoc OpenAPI)
+
+## 🙋 Sobre Mim
+### Meu nome é Adriel e atualmente estou estudando Análise e Desenvolvimento de Sistemas, buscando me especializar em Desenvolvidor Back-end .
+### Conecte-se comigo no [![linkendin](https://www.linkedin.com/in/adrielcézar/)](https://linkendin.com/)
+
+## 📣 Contribuição
+### Sinta-se à vontade para abrir issues ou fazer pull requests com sugestões e melhorias.
